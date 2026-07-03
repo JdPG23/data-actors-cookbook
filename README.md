@@ -37,6 +37,11 @@ Every Actor is a tool on the [Apify MCP Server](https://mcp.apify.com). One conf
 }
 ```
 
+## Tutorials
+
+- [How to Track US Startup Funding Rounds in Real Time (SEC Form D)](tutorials/track-startup-funding-rounds-sec-form-d.md)
+- [Finding Underpriced Items on Vinted Using Real eBay Sold Prices](tutorials/find-underpriced-items-vinted-ebay-sold-prices.md)
+
 ## Design principles
 
 - **Official / primary sources** wherever they exist (SEC EDGAR, BOE, TMview, ClinicalTrials.gov) — stable formats, no anti-bot games.
