@@ -18,6 +18,9 @@ Ready-to-run examples for a portfolio of **pay-per-event data APIs** (Apify Acto
 | [Patent Watch](https://apify.com/jdepablos/patent-watch) | New patent publications by keyword or company, worldwide, structured. | [`examples/patent-watch.mjs`](examples/patent-watch.mjs) |
 | [Airbnb Market Analyzer](https://apify.com/jdepablos/airbnb-market-analyzer) | Supply and nightly price stats for any city from a geo-scoped Airbnb scan. | [`examples/airbnb-market-analyzer.mjs`](examples/airbnb-market-analyzer.mjs) |
 | [Booking Hotel Price Analyzer](https://apify.com/jdepablos/booking-hotel-price-analyzer) | A city's hotel market: median and percentile prices, supply depth and the hotels behind them. | [`examples/booking-hotel-price-analyzer.mjs`](examples/booking-hotel-price-analyzer.mjs) |
+| [US Contract Opportunities Feed (SAM.gov)](https://apify.com/jdepablos/samgov-opportunities-feed) | Live federal contract opportunities with deadlines, set-aside labels and official contacts. | [`examples/samgov-opportunities-feed.mjs`](examples/samgov-opportunities-feed.mjs) |
+| [SEC 13F Holdings Feed](https://apify.com/jdepablos/sec-13f-holdings-feed) | Any fund manager's portfolio: top holdings with weights and quarter-over-quarter changes. | [`examples/sec-13f-holdings-feed.mjs`](examples/sec-13f-holdings-feed.mjs) |
+| [UK Company Data (Companies House)](https://apify.com/jdepablos/companies-house-feed) | KYC-grade UK company checks: profile, officers, beneficial owners, charges and filings with verifiable risk flags. | [`examples/companies-house-feed.mjs`](examples/companies-house-feed.mjs) |
 
 ## Run any example
 
