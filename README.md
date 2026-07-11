@@ -52,6 +52,7 @@ Every Actor is a tool on the [Apify MCP Server](https://mcp.apify.com). One conf
 - [Finding Underpriced Items on Vinted Using Real eBay Sold Prices](tutorials/find-underpriced-items-vinted-ebay-sold-prices.md)
 - [How to Track Insider Trading for Any Stock (SEC Form 4)](tutorials/track-insider-trading-sec-form-4.md)
 - [One API Call to Price Any Luxury Watch (Chrono24 Market Analysis)](tutorials/price-any-luxury-watch-chrono24.md)
+- [How to Run a KYC-Grade Check on Any UK Company (Companies House)](tutorials/uk-company-checks-companies-house.md)
 
 ## Design principles
 
